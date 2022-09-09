@@ -16,5 +16,7 @@ Passport.js )
 <p>4) MY FANTASY. it task on phaser 3 framework for testing how i learning new things
 <p>https://peak.pp.ua/myFantasy
 <p>https://github.com/ovodigr/phaser3_game
+  
+<img src="https://peak.pp.ua/portfolio_images/myFantasy1.png"></img>
 
 
