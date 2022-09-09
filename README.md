@@ -3,6 +3,7 @@ Hi, you can see my projects and can see their code here
 <p>1) Main page made with React and Three.js
 <p> site - https://peak.pp.ua 
 <p> code - https://github.com/ovodigr/threeJs
+  <img src="https://peak.pp.ua/portfolio_images/threeJs1.png"></img>
 
 <p>2) WORDS VOCABULARY its my pet projects(Used React, Redux, TypeScript, Express, Mongoose, Docker,
 Passport.js )
